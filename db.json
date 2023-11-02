@@ -1,0 +1,102 @@
+{
+  "people" : [
+    {
+
+      "Id":1,
+       "firstName": "Rahul",
+       "lastName": "Thakur",
+       "gender": "male",
+       "age": 28,
+       "number": "7349282382"
+    },
+    {
+      "Id":2,
+       "firstName": "Aman",
+       "lastName": "Rathore",
+       "gender": "male",
+       "age": 32,
+       "number": "5678568567"
+    },
+    {
+      "Id":3,
+       "firstName": "Ishiii",
+       "lastName": "sharma",
+       "gender": "female",
+       "age": 24,
+       "number": "4567546752"
+    },
+ 
+    {
+      "Id":4,
+       "firstName": "Kapil",
+       "lastName": "Thakur",
+       "gender": "male",
+       "age": 24,
+       "number": "7349282382"
+    },
+    {
+      "Id":5,
+       "firstName": "Raman",
+       "lastName": "Joshi",
+       "gender": "male",
+       "age": 32,
+       "number": "5678568567"
+    },
+    {
+      "Id":6,
+       "firstName": "Akshuu",
+       "lastName": "Tiwari",
+       "gender": "female",
+       "age": 24,
+       "number": "4567546752"
+    },
+    {
+      "Id":7,
+       "firstName": "Tiaa",
+       "lastName": "Mishra",
+       "gender": "female",
+       "age": 28,
+       "number": "7349282382"
+    },
+    {
+      "Id":8,
+       "firstName": "Damnini",
+       "lastName": "Yadav",
+       "gender": "female",
+       "age": 32,
+       "number": "5678568567"
+    },
+    {
+      "Id":9,
+       "firstName": "alayka",
+       "lastName": "Sharma",
+       "gender": "female",
+       "age": 24,
+       "number": "4567546752"
+    },
+    {
+      "Id":10,
+       "firstName": "Ravi",
+       "lastName": "Jadeja",
+       "gender": "male",
+       "age": 28,
+       "number": "7349282382"
+    },
+    {
+      "Id":11,
+       "firstName": "Lala",
+       "lastName": "Yadav",
+       "gender": "male",
+       "age": 32,
+       "number": "5678568567"
+    },
+    {
+      "Id":12,
+       "firstName": "Akash",
+       "lastName": "Tripathi",
+       "gender": "male",
+       "age": 24,
+       "number": "4567546752"
+    }
+  ]
+}
