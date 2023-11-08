@@ -8,6 +8,7 @@ function App() {
     <div>
       {/* <Axios /> */}
       <Axios_table />
+      <hr />
     </div>
   );
 }
